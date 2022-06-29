@@ -7,9 +7,15 @@ NPM packages required: [node-schedule](https://www.npmjs.com/package/node-schedu
 
 All you need to do is change the current version in versions.txt. It can be retrieved from https://setup.roblox.com/version , the rest will get filled in automatically.
 
-example:
+example
 ```
 previous: version-0000000000000000
 current: version-cb81695a34b340de
 next: version-0000000000000000
 ```
+
+showcase:
+
+![update message](https://cdn.discordapp.com/attachments/929016243619495967/991849015136243832/update-notifier-update.png)
+
+![version push](https://cdn.discordapp.com/attachments/929016243619495967/991849035277271130/update-notifier-push.png)
