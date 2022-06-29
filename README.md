@@ -3,6 +3,8 @@ logs ROBLOX's updates and new versions
 
 This is meant to be ran in NodeJS, 24/7, using something like pm2.
 
+NPM packages required: [node-schedule](https://www.npmjs.com/package/node-schedule) and [axios](https://www.npmjs.com/package/axios)
+
 All you need to do is change the current version in versions.txt. It can be retrieved from https://setup.roblox.com/version , the rest will get filled in automatically.
 
 example:
