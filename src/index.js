@@ -58,7 +58,7 @@ const callbacks = {
 }
 
 let fileData = null
-let versionFile = `${__dirname}\\versions.txt` // change this to the location of your version file
+let versionFile = `${__dirname}/versions.txt` // change this to the location of your version file
 let tick = null
 let checker = null
 let checkForNext = true
